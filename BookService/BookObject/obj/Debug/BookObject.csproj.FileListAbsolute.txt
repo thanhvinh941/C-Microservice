@@ -1,0 +1,6 @@
+C:\Users\truon\source\repos\BookService\BookObject\bin\Debug\BookObject.dll
+C:\Users\truon\source\repos\BookService\BookObject\bin\Debug\BookObject.pdb
+C:\Users\truon\source\repos\BookService\BookObject\obj\Debug\BookObject.csproj.AssemblyReference.cache
+C:\Users\truon\source\repos\BookService\BookObject\obj\Debug\BookObject.csproj.CoreCompileInputs.cache
+C:\Users\truon\source\repos\BookService\BookObject\obj\Debug\BookObject.dll
+C:\Users\truon\source\repos\BookService\BookObject\obj\Debug\BookObject.pdb

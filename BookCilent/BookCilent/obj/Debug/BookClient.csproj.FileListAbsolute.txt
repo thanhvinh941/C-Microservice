@@ -1,0 +1,16 @@
+C:\Users\truon\source\repos\BookCilent\BookCilent\bin\Debug\BookCilent.exe.config
+C:\Users\truon\source\repos\BookCilent\BookCilent\bin\Debug\BookCilent.exe
+C:\Users\truon\source\repos\BookCilent\BookCilent\bin\Debug\BookCilent.pdb
+C:\Users\truon\source\repos\BookCilent\BookCilent\obj\Debug\BookClient.csproj.AssemblyReference.cache
+C:\Users\truon\source\repos\BookCilent\BookCilent\obj\Debug\BookCilent.Form1.resources
+C:\Users\truon\source\repos\BookCilent\BookCilent\obj\Debug\BookCilent.Properties.Resources.resources
+C:\Users\truon\source\repos\BookCilent\BookCilent\obj\Debug\BookClient.csproj.GenerateResource.cache
+C:\Users\truon\source\repos\BookCilent\BookCilent\obj\Debug\BookClient.csproj.CoreCompileInputs.cache
+C:\Users\truon\source\repos\BookCilent\BookCilent\obj\Debug\BookCilent.exe
+C:\Users\truon\source\repos\BookCilent\BookCilent\obj\Debug\BookCilent.pdb
+C:\Users\truon\source\repos\BookCilent\BookCilent\bin\Debug\BookObject.dll
+C:\Users\truon\source\repos\BookCilent\BookCilent\bin\Debug\BookService.dll
+C:\Users\truon\source\repos\BookCilent\BookCilent\bin\Debug\BookObject.pdb
+C:\Users\truon\source\repos\BookCilent\BookCilent\bin\Debug\BookService.pdb
+C:\Users\truon\source\repos\BookCilent\BookCilent\bin\Debug\BookService.dll.config
+C:\Users\truon\source\repos\BookCilent\BookCilent\obj\Debug\BookClient.csproj.CopyComplete
